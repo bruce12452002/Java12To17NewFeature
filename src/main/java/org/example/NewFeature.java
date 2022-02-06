@@ -40,7 +40,7 @@ public class NewFeature {
 
     private void testInstanceOf(Object o) {
         if (o instanceof String p) {
-            System.out.println(o);
+            System.out.println(p);
         }
     }
 
